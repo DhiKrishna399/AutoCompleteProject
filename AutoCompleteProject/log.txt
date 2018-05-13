@@ -1,0 +1,9 @@
+We acknowledge that each partner in a programming pair should "drive" roughly 50% of the time the pair is working together,
+and at most 25% of an individual's effort for an assignment should be spent working alone. Any work done by a solitary programmer must be reviewed by the
+partner. The object is to work together, learning from each other, not to divide the work into two pieces with each partner working on a different piece.
+_(mytjones@ucsc.edu)_ spent ___0.5___ HOURS working alone.
+_(dkrishna@ucsc.edu)_ spent ___0.5___ HOURS working alone.
+We spent ______ HOURS working together on this assignment.
+I (__Myles Jones__) estimate that of the time spent with my partner, I "drove" __50__ PERCENT of the time. 
+I (__Dhiva Krishna__) estimate that of the time spent with my partner, I "drove" __50__ PERCENT of the time.
+
